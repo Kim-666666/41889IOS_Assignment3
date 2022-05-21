@@ -37,3 +37,5 @@ Each group is encouraged to come up with their own app idea. If your group is un
 1. Design and implement a crypto-currency wallet application that can hold a minimum of three currencies. The application doesn't require the implementation of a backend-server to manage wallets. The design should be visually appealing. (For example: Huobi Wallet) Create an application that makes it easy for a user to view and manage their crypto- currencies. Data should be presented to the user in a meaningful and appealing way. Information such as today's loss and gain should be implemented. Inspiration can be drawn from the default iOS stock app or other crypto apps such as Blockfolio.
 
 2. Design an online booking system for restaurants or cinemas. The app should allow the customers to select seats and cancel the booking.
+
+Github link:https://github.com/sw-Hua/41889IOS_Assignment3
